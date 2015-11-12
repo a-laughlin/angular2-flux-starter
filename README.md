@@ -1,6 +1,8 @@
 based on @robwormald angular2 starter plunkr
 
-Visit the folder in web server of choice.  Grunt, gulp, webpack, etc. are unnecessary.
+Visit the folder in web server of choice.
+
+Running code at http://a-laughlin.github.io/angular2-flux-starter/
 
 
 A simple demo of angular2 with redux:
